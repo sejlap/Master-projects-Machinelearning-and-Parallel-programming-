@@ -1,2 +1,1 @@
-# Masterprojects
-Machine Learning and Parallel programming
+# Master projects Machine Learning and Parallel programming
